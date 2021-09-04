@@ -8,7 +8,7 @@ for decoding: "the message is reverse shifted by the shift no and given as the d
 conclusion: "if the user has the *message* and *shift no* he/she can either encode or decode it "
 
 
-E.G ; 
+ 
       INPUT: encode > hello >5
       OUTPUT: Here's the encoded result: mjqqt
       
